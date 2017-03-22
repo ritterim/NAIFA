@@ -10,7 +10,7 @@
                 <span class="fa fa-lg fa-times-circle-o"></span>
               </button>
 
-                <form action="{{ site.zendesk_url }}" id="contact" method="post">
+                <form action="#" id="contact" method="post">
                     <h3>Thanks for contacting {{ site.title }}!</h3>
                     <p class="lead">We want to know what you're thinking, so let us know.</p>
                     <div class="row">
@@ -41,13 +41,13 @@
                     </div>
 
                     <button type="submit" class="btn btn-success btn-lg col-md-12">Contact Us</button>
-                    <input type="hidden" name="subject" value="Agent Survival Guide Request"/>
+                    <input type="hidden" name="subject" value="NAIFA Request"/>
                 </form>
             </div>
-            <div class="zendesk-message-success">
+            <div class="message-success">
                 <h1>Thank you, your request has been submitted to our staff.</h1>
             </div>
-            <div class="zendesk-message-failure">
+            <div class="message-failure">
                 <h1>We experienced an error submitting your request.</h1>
             </div>
             <div id="spinner">

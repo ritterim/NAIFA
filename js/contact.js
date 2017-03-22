@@ -4,8 +4,8 @@
         evt.preventDefault();
         $('.modal-body').show();
         $('#spinner').hide();
-        $('.zendesk-message-failure').hide();
-        $('.zendesk-message-success').hide();
+        $('.message-failure').hide();
+        $('.message-success').hide();
         var $form = $(this);
         var incomingData = $form.serializeObject();
         var data = JSON.stringify(incomingData);
@@ -23,19 +23,19 @@
             success: function () {
                 $('#spinner').hide();
                 $('.modal-body').hide();
-                $('.zendesk-message-success').show();
+                $('.message-success').show();
             },
             error: function () {
                 $('#spinner').hide();
                 $('.modal-body').hide();
-                $('.zendesk-message-failure').show();
+                $('.message-failure').show();
             }
         });
     });
     $('a[href="#contact-us"]').on('click', function() {
         $('.modal-body').show();
         $('#spinner').hide();
-        $('.zendesk-message-failure').hide();
-        $('.zendesk-message-success').hide();
+        $('.message-failure').hide();
+        $('.message-success').hide();
     });
 })(jQuery);
