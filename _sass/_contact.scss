@@ -1,0 +1,30 @@
+#contact-us {
+  h3, p {color: white;}
+}
+.zendesk-message-success,
+.zendesk-message-failure {
+  display: none;
+  h1 {
+    color: white;
+    font-size: 40px;
+  }
+}
+
+#spinner {
+    display: none;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    .fa {
+        position: fixed;
+        color: white;
+        margin: 0;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+        z-index: 5000;
+        display: block;
+        font-size: 3em;
+    }
+}

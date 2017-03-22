@@ -1,0 +1,17 @@
+
+{% capture today %}{{ "now" | date: "%s" }}{% endcapture %}
+{% if include.type == "page" %}
+  {% capture posted %}{{ page.date | date: "%s" }}{% endcapture %}
+{% else %}
+  {% capture posted %}{{ post.date | date: "%s" }}{% endcapture %}
+{% endif %}
+{% capture freshness %}{{ today | minus: posted | date: "%s" | date: "%j" | floor }}{% endcapture %}
+
+{% capture compareToday %}{{ today | date: "%j" | floor }}{% endcapture %}
+{% capture comparePosted %}{{ posted | date: "%j" | floor }}{% endcapture %}
+
+{% if compareToday == comparePosted %}
+  {% assign freshness = 0 %}
+{% else %}
+  {% assign freshness = freshness | times: 1 %}
+{% endif %}

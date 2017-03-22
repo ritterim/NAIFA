@@ -1,0 +1,37 @@
+section {
+  &#subscribe {
+    background: $grey-light;
+    color: $color-white;
+    margin-top: 4em !important;
+    text-align: center;
+    @include slanted(0px, $grey-light);
+    .container {
+      h1 {
+        color: $color-white;
+        font-size: 4em;
+        font-weight: 100;
+      }
+      h2 {
+        color: $color-blue;
+        font-size: 2em;
+        font-weight: 100;
+      }
+      span {
+        font-family: 'Caveat', cursive;
+        font-size: 200%;
+        font-style: italic;
+        white-space: nowrap;
+        display: block;
+      }
+      @include desktop {
+        width: 75%;
+      }
+      @include tablet {
+        width: 75%;
+      }
+      @include mobile {
+        width: 100%;
+      }
+    }
+  }
+}
