@@ -22,11 +22,7 @@
         <a class="post-tag" href="{{ post.category | prepend: site.baseurl | downcase }}"> {{ post.category }}</a>
          {{ post.content | strip_html | truncatewords:32 }}
         <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">
-          {% if post.category == "video" %}
-          Watch now <i class="fa fa-youtube-play"></i>
-          {% else %}
           Read more <i class="fa fa-arrow-circle-right"></i>
-          {% endif %}
         </a>
       </p>
     </div>
