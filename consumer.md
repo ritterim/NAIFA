@@ -3,5 +3,5 @@ layout: category
 title: Consumers
 category: Consumer
 permalink: /consumer/
-image: Harrisburg.jpg
+image: harrisburg-city.jpg
 ---

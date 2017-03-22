@@ -3,16 +3,13 @@ permalink: /:title
 # Site authors
 # append to list whenever an author is added
 author:
-  - name: Brent Hackman
-    avatar:
-  - name: Beth Warner
-    avatar:
+  - name: NAIFA
 
 # ------------------------------------------------------
 # Site wide - Do not alter unless you know what you're doing
 # ------------------------------------------------------
 title: NAIFA of Greater Harrisburg
-email: your-email@naifa.com
+email: info@naifahbg.com
 description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.naifahbg.com"
@@ -24,8 +21,8 @@ github_username:  naifahbg
 naifa: NAIFA of Greater Harrisburg
 naifa_short: NAIFA
 naifa_url: http://www.naifahbg.com
-naifa_address: 2600 Commerce Drive, Harrisburg, PA 17110
-naifa_phone: 800-769-1847
+naifa_address:
+naifa_phone:
 naifa_email: info@naifahbg.com
 naifa_copyright: Copyright @ NAIFA-Greater Harrisburg. All rights reserved.
 

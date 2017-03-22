@@ -5,13 +5,9 @@
 {% else %}
   {% capture posted %}{{ post.date | date: "%s" }}{% endcapture %}
 {% endif %}
-{% capture freshness %}{{ today | minus: posted | date: "%s" | date: "%j" | floor }}{% endcapture %}
 
-{% capture compareToday %}{{ today | date: "%j" | floor }}{% endcapture %}
-{% capture comparePosted %}{{ posted | date: "%j" | floor }}{% endcapture %}
+{% comment %}
+https://stackoverflow.com/a/37343774 answering https://stackoverflow.com/questions/37340705/shopify-liquid-find-number-of-days-between-two-dates
+{% endcomment %}
 
-{% if compareToday == comparePosted %}
-  {% assign freshness = 0 %}
-{% else %}
-  {% assign freshness = freshness | times: 1 %}
-{% endif %}
+{% capture freshness %}{{ today | minus: posted | divided_by: 3600 | divided_by: 24 }}{% endcapture %}
