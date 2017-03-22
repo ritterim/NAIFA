@@ -1,0 +1,22 @@
+{% for post in site.categories[page.category] %}
+{% include freshness.html type="post" %}
+<article>
+  <div class="row card-row">
+    <div>
+      <a class="thumbs" href="{{ post.url | prepend: site.baseurl }}">
+      {% if post.image %}
+      <img class="img-fluid" src="/images/posts/{{post.image}}" alt="{{ post.title }}" >
+      {% else %}
+      <img class="img-fluid" src="/images/agent-in-office.jpg" alt="{{ post.title }}" >
+      {% endif%}
+    </a>
+      <a class="post-title" href="{{ post.url | prepend: site.baseurl }}"><h2 itemprop="name">{{ post.title }}</h2></a>
+      <span class="card-category"><em>{{ freshness }}</em> days ago</span>
+      <p>{{ post.content | strip_html | truncatewords:15 }}</p>
+      <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">
+        Read more <i class="fa fa-arrow-circle-right"></i>
+      </a>
+    </div>
+  </div>
+</article>
+{% endfor %}

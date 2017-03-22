@@ -1,0 +1,59 @@
+permalink: /:title
+
+# Site authors
+# append to list whenever an author is added
+author:
+  - name: NAIFA
+
+# ------------------------------------------------------
+# Site wide - Do not alter unless you know what you're doing
+# ------------------------------------------------------
+title: NAIFA of Greater Harrisburg
+email: info@naifahbg.com
+description:
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.naifahbg.com"
+logo: /images/naifagh-logo.jpg
+twitter_username: naifahbg
+github_username:  naifahbg
+
+# NAIFA
+naifa: NAIFA of Greater Harrisburg
+naifa_short: NAIFA
+naifa_url: http://www.naifahbg.com
+naifa_address:
+naifa_phone:
+naifa_email: info@naifahbg.com
+naifa_copyright: Copyright @ NAIFA-Greater Harrisburg. All rights reserved.
+
+# See into the future
+future: true
+
+# SASS
+sass:
+  style: compressed
+
+exclude:
+  - build.cmd
+  - deploy.cmd
+  - Gemfile
+  - Gemfile.lock
+  - getruby.cmd
+  - package.json
+  - README.md
+  - node_modules/
+  - npm-debug.log
+  - jekyll-run.cmd
+
+# Social - NAIFA social accounts
+social_links:
+  - service: comment
+    url: https://www.naifahbg.com/
+  - service: twitter
+    url: https://twitter.com/naifahbg
+  - service: facebook-official
+    url: https://www.facebook.com/naifahbg
+  - service: youtube-play
+    url: https://www.youtube.com/user/naifahbg
+  - service: linkedin
+    url: https://www.linkedin.com/company/naifahbg

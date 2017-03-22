@@ -1,0 +1,13 @@
+
+{% capture today %}{{ "now" | date: "%s" }}{% endcapture %}
+{% if include.type == "page" %}
+  {% capture posted %}{{ page.date | date: "%s" }}{% endcapture %}
+{% else %}
+  {% capture posted %}{{ post.date | date: "%s" }}{% endcapture %}
+{% endif %}
+
+{% comment %}
+https://stackoverflow.com/a/37343774 answering https://stackoverflow.com/questions/37340705/shopify-liquid-find-number-of-days-between-two-dates
+{% endcomment %}
+
+{% capture freshness %}{{ today | minus: posted | divided_by: 3600 | divided_by: 24 }}{% endcapture %}

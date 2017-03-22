@@ -1,0 +1,30 @@
+<header>
+    <nav class="navbar navbar-inverse navbar-light bg-faded navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+
+        <button class="navbar-toggler hidden-xl-up float-xs-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">&#9776;</button>
+
+        <a class="navbar-brand" href="{{ site.url }}">
+          <h1><img src="{{ site.logo }}" alt="NAIFA of Greater Harrisburg" /></h1>
+        </a>
+      </div>
+
+      <div class="navbar-collapse collapse navbar-toggleable-lg" id="navbarResponsive">
+          <ul class="nav navbar-nav pull-right">
+              {% unless page.index %}
+              <li><a href="{{ site.url }}">Home</a></li>
+              {% endunless %}
+              <li><a href="#contact-us" data-toggle="modal" data-target="#contact-us">Contact</a></li>
+              <li><a href="/calendar">Calendar</a></li>
+              <li><a href="/about">About Us</a></li>
+              <li><a href="/agents">Agents</a></li>
+              <li><a href="/consumer">Consumers</a></li>
+              <li class="reg-button">
+                <a href="https://member.naifa.org/Services/NAIFA/Join/NAIFA/Join.aspx" target="_blank"> Join! <i class="fa fa-arrow-circle-right"></i></a>
+              </li>
+            </ul>
+      </div>
+    </div> <!-- /.container -->
+  </nav> <!--</div>--> <!-- /.navbar -->
+</header>

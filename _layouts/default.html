@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+    {% include header.html %}
+    {% include home-banner.html %}
+
+    <section id="in-this-issue">
+      <div class="container">
+        <h4 class="blue">Recent Posts</h4>
+
+        {% include home-blog-posts.html %}
+
+      </div><!-- /.container -->
+    </section><!-- /.co in-this-issue -->
+
+    {% include subscribe.html %}
+    {% include footer.html %}
+    {% include contact.html %}
+    {% include script.html %}
+    {% include add-this.html %}
+
+  </body>
+
+</html>
