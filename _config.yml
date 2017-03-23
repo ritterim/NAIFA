@@ -9,7 +9,7 @@ author:
 # Site wide - Do not alter unless you know what you're doing
 # ------------------------------------------------------
 title: NAIFA of Greater Harrisburg
-email: info@naifahbg.com
+email:
 description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.naifahbg.com"
@@ -23,7 +23,7 @@ naifa_short: NAIFA
 naifa_url: http://www.naifahbg.com
 naifa_address:
 naifa_phone:
-naifa_email: info@naifahbg.com
+naifa_email:
 naifa_copyright: Copyright @ NAIFA-Greater Harrisburg. All rights reserved.
 
 # See into the future

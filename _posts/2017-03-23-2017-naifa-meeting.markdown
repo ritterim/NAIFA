@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "NAIFA - Meeting 2017"
+date:   2017-03-23 5:01:00 -0700
+author: NAIFA
+category: Events
+tag:
+- NAIFA
+image: harrisburg-capital-inside.jpg
+---
+
+## Event:
+Those engaged in offering insurance and other related financial services occupy the unique position of liaison between the purchasers and the suppliers of insurance and closely related financial products. Inherent in this role is the combination of professional duty to the client and to the company, as well. Ethical balance is required to avoid any conflict between these two obligations. Therefore,

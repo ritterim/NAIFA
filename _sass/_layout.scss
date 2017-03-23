@@ -8,6 +8,15 @@ body {
     font-weight: 300;
     line-height: 1.5em;
   }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin: 1rem 0 !important;
+  }
+
   h1 {font-size: 2em; color: $color-gold;}
   h3 {font-size: 1.3em;}
 

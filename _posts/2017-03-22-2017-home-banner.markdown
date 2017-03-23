@@ -8,7 +8,7 @@ category: NAIFA
 tag:
 - featured
 - NAIFA
-image: harrisburg-lighting.jpg
+image: harrisburg-trees-crop.jpg
 ---
 
 ## NAIFA of Greater Harrisburg

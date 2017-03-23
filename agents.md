@@ -3,5 +3,5 @@ layout: category
 title: Agents
 category: Agents
 permalink: /agents/
-image: harrisburg-lighting.jpg
+image: harrisburg-academy-al.jpg
 ---

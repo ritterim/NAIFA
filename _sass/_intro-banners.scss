@@ -16,7 +16,7 @@
 #blog {
   .banner-text {
     font-size: 2.3vh;
-    padding: 6em 4em 2em;
+    padding: 6em 0em 2em 1em;
     @include tablet {
       padding: 2em 5em;
     }
@@ -38,7 +38,7 @@
 #naifa {
   .banner-text {
     font-size: 2.3vh;
-    padding: 4em 4em 2em;
+    padding: 6em 0em 2em 1em;
       @include tablet {
         padding: 2em 5em;
       }
@@ -61,7 +61,10 @@
 #blog {
   .banner-text {
     color: $color-white;
-    width: 80%;
+    width: 1140px;
+    margin: 0 auto;
+    max-width: 100%;
+
     &:active,
     &:focus {
       text-decoration: none;
