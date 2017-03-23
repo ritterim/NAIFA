@@ -9,49 +9,30 @@
               <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
                 <span class="fa fa-lg fa-times-circle-o"></span>
               </button>
-
-                <form action="#" id="contact" method="post">
-                    <h3>Thanks for contacting {{ site.title }}!</h3>
-                    <p class="lead">We want to know what you're thinking, so let us know.</p>
+              <form id="contact" action="https://formspree.io/YOUREMAIL@email.com" method="POST">
+                <h3>Thanks for contacting {{ site.title }}!</h3>
+                <p class="lead">We want to know what you're thinking, so let us know.</p>
                     <div class="row">
                         <div class="form-group form-group-lg col-md-12">
-                            <label class="sr-only" for="Name">Name</label>
-                            <input class="form-control" data-val="true" data-val-required="Name required." id="Name" name="Name" placeholder="Name" type="text" value="" required=""/>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="form-group form-group-lg col-md-6">
-                            <label class="sr-only" for="EmailAddress">Email Address</label>
-                            <input class="form-control" data-val="true" data-val-email="Not a valid e-mail." id="EmailAddress" name="EmailAddress" placeholder="Email" type="text" value="" required=""/>
+                            <input class="form-control" type="text" id="Name" name="name" placeholder="Name" data-val="true" data-val-required="Name required." />
                         </div>
                         <div class="form-group form-group-lg col-md-6">
-                            <label class="sr-only" for="PhoneNumber">Phone Number</label>
-                            <input class="form-control" data-val="true" data-val-required="Phone Number required." id="PhoneNumber" name="PhoneNumber" placeholder="Phone Number" type="text" value="" required=""/>
+                            <input class="form-control" type="email" id="EmailAddress" name="_replyto" placeholder="Email" data-val="true" data-val-email="Not a valid e-mail." />
                         </div>
-                    </div>
-                    <div class="row">
+                        <div class="form-group form-group-lg col-md-6">
+                            <input class="form-control" type="text" id="PhoneNumber" name="PhoneNumber" placeholder="Phone Number" data-val="true" data-val-required="Phone Number required." />
+                        </div>
                         <div class="form-group form-group-lg col-md-12">
-                            <label class="sr-only" for="Subject">Subject</label>
-                            <input class="form-control" data-val="true" data-val-required="Subject required." id="Subject" name="Subject" placeholder="Subject" type="text" value="" required=""/>
+                            <textarea class="form-control" id="Message" name="Message" placeholder="Message"></textarea>
                         </div>
                     </div>
-                    <div class="form-group form-group-lg">
-                        <label class="sr-only" for="Message">Message</label>
-                        <textarea class="form-control" id="Message" name="Message" type="text" value="" required=""></textarea>
+                        <button type="submit" class="btn btn-success btn-lg col-md-12" />Contact Us</button>
+                        <input type="hidden" name="subject" value="NAIFA Request"/>
+                        <input type="hidden" name="_next" value="/thanks" />
+                        <input type="text" name="_gotcha" style="display:none" />
                     </div>
-
-                    <button type="submit" class="btn btn-success btn-lg col-md-12">Contact Us</button>
-                    <input type="hidden" name="subject" value="NAIFA Request"/>
-                </form>
-            </div>
-            <div class="message-success">
-                <h1>Thank you, your request has been submitted to our staff.</h1>
-            </div>
-            <div class="message-failure">
-                <h1>We experienced an error submitting your request.</h1>
-            </div>
-            <div id="spinner">
-                <i class="fa fa-spinner fa-pulse"></i>
+                  </div>
+              </form>
             </div>
         </div>
     </div>

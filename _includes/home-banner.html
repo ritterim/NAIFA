@@ -5,13 +5,13 @@
   {% include freshness.html type="post" %}
   <div class="container-fluid" {% if post.image %} style="background: url(/images/posts/{{ post.image }}) 50% 50% fixed; background-size: cover;" {% endif %} id="naifa">
     <div id="banner-color-overlay"></div>
-    <div class="banner-text">
-      <h1>{{ post.title }}</h1>
-      <h2>{{ post.subtitle }}</h2>
-      <a class="reg-button" href="https://member.naifa.org/Services/NAIFA/Join/NAIFA/Join.aspx" target="_blank">
-        Join Today! <i class="fa fa-arrow-circle-right"></i>
-      </a>
-      {% endif %}
-    </div>
-    {% endfor %}
+      <div class="banner-text">
+        <h1>{{ post.title }}</h1>
+        <h2>{{ post.subtitle }}</h2>
+        <a class="reg-button" href="https://member.naifa.org/Services/NAIFA/Join/NAIFA/Join.aspx" target="_blank">
+          Join Today! <i class="fa fa-arrow-circle-right"></i>
+        </a>
+      </div>
+    {% endif %}
+  {% endfor %}
 </div> <!-- /.container-full -->

@@ -3,6 +3,8 @@
 {% comment %}---> limiting the featured post to masthead,
                   not repeating in body {% endcomment %}
 {% unless post.tag contains 'featured' %}
+{% unless post.category contains 'Agents' %}
+{% unless post.category contains 'Events' %}
 {% include freshness.html type="post" %}
 <article>
   <div class="row card-row">
@@ -28,5 +30,7 @@
     </div>
   </div>
 </article>
+{% endunless %}
+{% endunless %}
 {% endunless %}
 {% endfor %}
