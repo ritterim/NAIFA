@@ -12,7 +12,7 @@ title: NAIFA of Greater Harrisburg
 email:
 description:
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.naifahbg.com"
+url: "https://www.naifahbg.com"
 logo: /images/naifagh-logo.jpg
 twitter_username: naifahbg
 github_username:  naifahbg
@@ -20,7 +20,7 @@ github_username:  naifahbg
 # NAIFA
 naifa: NAIFA of Greater Harrisburg
 naifa_short: NAIFA
-naifa_url: http://www.naifahbg.com
+naifa_url: https://www.naifahbg.com
 naifa_address:
 naifa_phone:
 naifa_email:
