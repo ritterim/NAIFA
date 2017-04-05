@@ -1,5 +1,4 @@
 {% for post in site.categories[page.category] %}
-{% include freshness.html type="post" %}
 <article>
   <div class="row card-row">
     <div>
@@ -11,7 +10,7 @@
       {% endif%}
     </a>
       <a class="post-title" href="{{ post.url | prepend: site.baseurl }}"><h2 itemprop="name">{{ post.title }}</h2></a>
-      <span class="card-category"><em>{{ freshness }}</em> days ago</span>
+      <span class="card-category">Posted <em>{{ post.date | date: '%B %d, %Y' }}</em></span>
       <p>{{ post.content | strip_html | truncatewords:15 }}</p>
       <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">
         Read more <i class="fa fa-arrow-circle-right"></i>

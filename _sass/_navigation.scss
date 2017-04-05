@@ -11,7 +11,7 @@ header {
       &:hover {border-bottom: none;}
     }
   }
-  .navbar-collapse{ padding: 1em 0 0;}  
+  .navbar-collapse{ padding: 1em 0 0;}
   .navbar-inverse {
     border-color: transparent;
     .navbar-toggle,
@@ -113,6 +113,9 @@ header {
       &:hover {
         border-bottom: 2px solid $color-green;
       }
+    }
+    li.reg-button {
+        margin: 0 0 0 10px;
     }
     .reg-button {
       @include transition(all, 0.3s);

@@ -14,8 +14,10 @@ description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.naifahbg.com"
 logo: /images/naifagh-logo.jpg
+footerlogo: /images/footer-logo.png
 twitter_username: naifahbg
 github_username:  naifahbg
+join_url: https://member.naifa.org/Services/NAIFA/Join/NAIFA/Join.aspx
 
 # NAIFA
 naifa: NAIFA of Greater Harrisburg
@@ -24,7 +26,7 @@ naifa_url: http://www.naifahbg.com
 naifa_address:
 naifa_phone:
 naifa_email:
-naifa_copyright: Copyright @ NAIFA-Greater Harrisburg. All rights reserved.
+naifa_copyright: NAIFA-Greater Harrisburg. All rights reserved.
 
 # See into the future
 future: true
@@ -48,12 +50,12 @@ exclude:
 # Social - NAIFA social accounts
 social_links:
   - service: comment
-    url: https://www.naifahbg.com/
+    # url: https://www.naifahbg.com/
   - service: twitter
-    url: https://twitter.com/naifahbg
+    # url: https://twitter.com/naifahbg
   - service: facebook-official
-    url: https://www.facebook.com/naifahbg
+    # url: https://www.facebook.com/naifahbg
   - service: youtube-play
-    url: https://www.youtube.com/user/naifahbg
+    # url: https://www.youtube.com/user/naifahbg
   - service: linkedin
-    url: https://www.linkedin.com/company/naifahbg
+    # url: https://www.linkedin.com/company/naifahbg

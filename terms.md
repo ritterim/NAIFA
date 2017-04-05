@@ -2,7 +2,7 @@
 layout: page
 title: Privacy Policy
 permalink: /terms-and-privacy
-image: harrisburg-lighting.jpg
+image: harrisburg-bridge.jpg
 ---
 
 # Privacy Policy, Use of Data & Legal Notices

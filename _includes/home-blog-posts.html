@@ -1,11 +1,9 @@
 {% for post in site.posts limit:10 %}
-{% include freshness.html type="post" %}
 {% comment %}---> limiting the featured post to masthead,
                   not repeating in body {% endcomment %}
 {% unless post.tag contains 'featured' %}
 {% unless post.category contains 'Agents' %}
 {% unless post.category contains 'Events' %}
-{% include freshness.html type="post" %}
 <article>
   <div class="row card-row">
     <div class="col-md-6">
@@ -19,7 +17,7 @@
     </div>
     <div class="col-md-6 cardcontent">
       <a class="post-title" href="{{ post.url | prepend: site.baseurl }}"><h2 itemprop="name">{{ post.title }}</h2></a>
-      <span class="card-author">by {{ post.author }} | Posted <em>{{ freshness }}</em> days ago</span>
+      <span class="card-author">by {{ post.author }} | Posted <em>{{ post.date | date: '%B %d, %Y' }}</em></span>
       <p>
         <a class="post-tag" href="{{ post.category | prepend: site.baseurl | downcase }}"> {{ post.category }}</a>
          {{ post.content | strip_html | truncatewords:32 }}

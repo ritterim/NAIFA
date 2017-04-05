@@ -11,6 +11,7 @@
 <div id="bannerColorOverlay"></div>
   <div class="banner-text text-xs-left">
     <h1 class="post-title" itemprop="name">{{ page.title }}</h1>
+    <h2 class="post-title" itemprop="name">{{ page.subtitle }}</h2>
   </div>
 </div> <!-- /.container-full -->
 
@@ -21,7 +22,19 @@
 
         <section id="related-content">
           <div class="container categories">
-            <h4 class="gold">Recent Posts</h4>
+
+            {% if page.category contains 'About' %}
+              {{ content }}
+            {% endif %}
+
+            {% if page.category contains 'Events' %}
+              <h4 class="gold">Upcoming Events</h4>
+            {% else %}
+            {% unless page.category contains 'About' %}
+              <h4 class="gold">Recent Posts</h4>
+            {% endunless %}
+            {% endif %}
+
             {% include categories-page.html %}
           </div>
         </section>
