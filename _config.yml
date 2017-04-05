@@ -35,14 +35,9 @@ sass:
 
 exclude:
   - build.cmd
-  - deploy.cmd
   - Gemfile
   - Gemfile.lock
-  - getruby.cmd
-  - package.json
   - README.md
-  - node_modules/
-  - npm-debug.log
   - jekyll-run.cmd
 
 # Social - NAIFA social accounts
