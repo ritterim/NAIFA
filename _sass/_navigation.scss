@@ -160,8 +160,8 @@ header {
     @include mobile {
       padding: 0;
       img {
-        padding-top: .5em;
-        max-height: 45px;
+        padding-top: 0em;
+        max-height: 80px;
       }
     }
   }
