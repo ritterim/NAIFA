@@ -3,7 +3,7 @@ layout: post
 title: "New Post Test"
 date: 2017-04-06 5:01:00 -0700
 author: NAIFA
-category: Agent
+category: Agents
 tag:
 - NAIFA
 image: iStock-182361579.jpg
