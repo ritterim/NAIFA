@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: category
 title: About
+subtitle: Welcome to NAIFA of Greater Harrisburg!
 permalink: /about/
+category: About
 image: harrisburg-bridge.jpg
 ---
 

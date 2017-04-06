@@ -23,6 +23,18 @@ section {
         white-space: nowrap;
         display: block;
       }
+      a.navbar-brand {
+        width: auto;
+        height: auto;
+        float: none;
+        margin: 0 auto;
+        display: inline-block;
+        img {
+          width: 40%;
+          height: auto;
+          max-width: 100%;
+        }
+      }
       @include desktop {
         width: 75%;
       }

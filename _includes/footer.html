@@ -4,17 +4,23 @@
     <p>
       <ul class="list-inline text-xs-center">
       {% for social in site.social_links %}
-        <li class="list-inline-item">
-          <a href="{{ social.url }}" title="{{ social.service }}" target="_blank">
-            <i class="fa fa-{{ social.service }} fa-2x"></i>
-          </a>
-        </li>
+
+        {% if social.url %}
+          <li class="list-inline-item">
+            <a href="{{ social.url }}" title="{{ social.service }}" target="_blank">
+              <i class="fa fa-{{ social.service }} fa-2x"></i>
+            </a>
+          </li>
+        {% else %}
+          <div></div>
+        {% endif %}
+
         {% endfor %}
       </ul>
     </p>
     <h2>{{ site.naifa }}</h2>
     <p>&copy;{{ site.time | date: '%Y' }}, {{ site.naifa_copyright }}</p>
-    <a href="terms-and-privacy">terms &amp; privacy</a>
+    <a href="/terms-and-privacy">terms &amp; privacy</a>
 
   </footer>
 </section>

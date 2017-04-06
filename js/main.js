@@ -4,13 +4,6 @@ $(function() {
     $('#contact-us').modal('show');
 });
 
-$('#calendar').fullCalendar({
-  googleCalendarApiKey: 'AIzaSyCbahWxJfr0FHrCNMNItiqV6Ax0iivXmEU',
-    events: {
-        googleCalendarId: 'brenthack35@gmail.com'
-    }
-});
-
 $('.nav a').on('click', function() {
   $('.nav').find('active').removeClass('active');
   $(this).parent().addClass('active');

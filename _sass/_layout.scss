@@ -50,7 +50,7 @@ body {
     color: $grey-light;
     margin: 1em auto;
   }
-  a { border: none; }
+  a { border: none; cursor: pointer; }
   a:hover, a:focus { border: none; }
   a.reg-button {
     @include transition(all, 0.3s);
@@ -173,7 +173,7 @@ body {
 #disclaimers,
 #subscribe {
   .container {
-    padding: 5em 0;
+    padding: 2em 0 3em;
   }
 }
 
@@ -294,10 +294,10 @@ input[type=submit] {
 .category-body{
   .container {
     @include desktop {
-      width:90% !important;
+      width:93% !important;
     }
     @include large {
-      width:90% !important;
+      width:93% !important;
     }
   }
 }

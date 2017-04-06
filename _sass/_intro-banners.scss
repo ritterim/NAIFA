@@ -16,7 +16,7 @@
 #blog {
   .banner-text {
     font-size: 2.3vh;
-    padding: 6em 0em 2em 1em;
+    padding: 8em 0em 0em 1em;
     @include tablet {
       padding: 2em 5em;
     }
@@ -25,9 +25,11 @@
     }
     h1 {
       font-size: 6vh;
+      text-shadow: 2px 2px 2px rgba(0, 0, 0, 1);
     }
     h2 {
       font-size: 4vh;
+      text-shadow: 2px 2px 2px rgba(0, 0, 0, 1);
     }
     author {
       font-size: 2.8vh;
@@ -46,10 +48,12 @@
         padding: 2em 2em;
       }
     h1 {
-      font-size: 8vh;
+      font-size: 10vh;
+      text-shadow: 2px 2px 2px rgba(0, 0, 0, 1);
     }
     h2 {
       font-size: 5vh;
+      text-shadow: 2px 2px 2px rgba(0, 0, 0, 1);
     }
     author {
       font-size: 2.8vh;
@@ -76,7 +80,7 @@
       width: 100%;
     }
     span {
-      color: $color-green;
+      color: $color-white;
       font-weight: 400;
       text-transform: uppercase;
     }
