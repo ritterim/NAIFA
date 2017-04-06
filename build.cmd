@@ -12,12 +12,6 @@ if %ERRORLEVEL% neq 0 goto BuildFail
 call bundle exec jekyll build
 if %ERRORLEVEL% neq 0 goto BuildFail
 
-call npm install
-if %ERRORLEVEL% neq 0 goto BuildFail
-
-call npm run ritter-jekyll
-if %ERRORLEVEL% neq 0 goto BuildFail
-
 goto BuildSuccess
 
 :BuildFail

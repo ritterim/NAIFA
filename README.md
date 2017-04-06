@@ -1,5 +1,5 @@
 # NAIFA
-http://www.naifahbg.com
+https://www.naifahbg.com
 
 This is a [Jekyll](https://jekyllrb.com/) site hosted at [https://github.com/NAIFAHarrisburg/](https://github.com/NAIFAHarrisburg) by GitHub Pages.
 
