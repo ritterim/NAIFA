@@ -3,7 +3,9 @@ layout: post
 title: "NAIFA - In The Community"
 date: 2017-03-13 5:01:00 -0700
 author: NAIFA
-category: Consumers
+category: 
+- Consumers
+- Agent
 tag:
 - NAIFA
 image: harrisburg-bridge.jpg
