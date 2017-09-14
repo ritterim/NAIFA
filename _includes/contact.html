@@ -10,28 +10,45 @@
                 <span class="fa fa-lg fa-times-circle-o"></span>
               </button>
 
-              <form id="contact" action="https://formspree.io/{{ site.naifa_email }}" method="post">
-                <h3>Thanks for contacting {{ site.title }}!</h3>
-                <p class="lead">We want to know what you're thinking, so let us know.</p>
-                    <div class="row">
-                        <div class="form-group form-group-lg col-md-12">
-                            <input class="form-control" type="text" id="Name" name="name" placeholder="Name" data-val="true" data-val-required="Name required." />
-                        </div>
-                        <div class="form-group form-group-lg col-md-6">
-                            <input class="form-control" type="email" id="EmailAddress" name="_replyto" placeholder="Email" data-val="true" data-val-email="Not a valid e-mail." />
-                        </div>
-                        <div class="form-group form-group-lg col-md-6">
-                            <input class="form-control" type="text" id="PhoneNumber" name="PhoneNumber" placeholder="Phone Number" data-val="true" data-val-required="Phone Number required." />
-                        </div>
-                        <div class="form-group form-group-lg col-md-12">
-                            <textarea class="form-control" id="Message" name="Message" placeholder="Message"></textarea>
-                        </div>
+
+              <form class="form-horizontal" id="contact" action="https://formspree.io/{{ site.naifa_email }}" method="post">
+                <fieldset>
+                    <!-- Address form -->
+                    <h3>Thanks for contacting {{ site.title }}!</h3>
+                    <p class="lead">We want to know what you're thinking, so let us know.</p>
+                    <!-- full-name input-->
+                    <div class="form-group form-group-lg col-md-12">
+                            <input id="full-name" name="full-name" type="text" placeholder="full name" class="form-control" />
                     </div>
-                        <button type="submit" class="btn btn-success btn-lg col-md-12" />Contact Us</button>
-                        <input type="hidden" name="subject" value="NAIFA Request"/>
+                    <!-- address-line1 input-->
+                    <div class="form-group form-group-lg col-md-12">
+                            <input id="address-line1" name="address-line1" type="text" placeholder="address line 1" class="form-control" />
                     </div>
-                  </div>
-              </form>
+                    <!-- address-line2 input-->
+                    <div class="form-group form-group-lg col-md-12">
+                            <input id="address-line2" name="address-line2" type="text" placeholder="address line 2" class="form-control" />
+                    </div>
+                    <!-- city input-->
+                    <div class="form-group form-group-lg col-md-4">
+                            <input id="city" name="city" type="text" placeholder="city" class="form-control" />
+                    </div>
+                    <!-- region input-->
+                    <div class="form-group form-group-lg col-md-4">
+                            <input id="region" name="region" type="text" placeholder="state / province / region" class="form-control" />
+                    </div>
+                    <!-- postal-code input-->
+                    <div class="form-group form-group-lg col-md-4">
+                            <input id="postal-code" name="postal-code" type="text" placeholder="zip or postal code" class="form-control" />
+                    </div>
+
+                </fieldset>
+
+                <button type="submit" class="btn btn-success btn-lg col-md-12" />Contact Us</button>
+                <input type="hidden" name="subject" value="NAIFA Request"/>
+
+            </form>
+
+
             </div>
             <div class="message-success">
                 <h1>Thank You, your request has been submitted to our staff.</h1>
