@@ -3,7 +3,7 @@ https://www.naifahbg.com
 
 This is a [Jekyll](https://jekyllrb.com/) site hosted at [https://github.com/NAIFAHarrisburg/](https://github.com/NAIFAHarrisburg) by GitHub Pages.
 
-## Getting started
+## Getting started (To Run a Local Version of the Site)
 
 1. Install Ruby v2 *(if not already installed)*
 2. Clone repository
@@ -11,6 +11,10 @@ This is a [Jekyll](https://jekyllrb.com/) site hosted at [https://github.com/NAI
 4. `gem install bundler`
 5. `bundle install`
 6. To run: `bundle exec jekyll serve` with optional `--incremental` flag
+
+## Online Markdown Editor
+This is a great online page/post editor for Markdown.
+[Online Markdown Editor](https://dillinger.io/)
 
 ## Guides and rules for adding posts
 
