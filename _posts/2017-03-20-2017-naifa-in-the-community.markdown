@@ -6,7 +6,7 @@ author: NAIFA
 category: Consumers
 tag:
 - NAIFA
-image: naifa-community.jpg
+image: harrisburg-bridge.jpg
 ---
 
 The Winners for Life is an anti-drug essay program designed to encourage
