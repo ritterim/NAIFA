@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "This is Awesome"
-date:   2018-01-15-2018 5:01:00 -0700
+date:   2018-01-15 5:01:00 -0700
 author: NAIFA
 category: NAIFA
 tag:
