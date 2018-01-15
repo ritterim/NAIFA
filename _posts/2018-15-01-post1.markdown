@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "This is Awesome"
-date:   2018-15-01 5:01:00 -0700
+date:   2018-15-01-2018 5:01:00 -0700
 author: NAIFA
 category: NAIFA
 tag:
@@ -9,7 +9,7 @@ tag:
 image: awesome.jpg
 ---
 
-# Code of Ethics
+## Code of Ethics
 
 ## Preamble:
 Those engaged in offering insurance and other related financial services occupy the unique position of liaison between the purchasers and the suppliers of insurance and closely related financial products. Inherent in this role is the combination of professional duty to the client and to the company, as well. Ethical balance is required to avoid any conflict between these two obligations. Therefore,
