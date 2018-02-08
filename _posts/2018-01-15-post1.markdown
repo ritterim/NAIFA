@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "This is Awesome"
+title:  "Code of Ethics"
 date:   2018-01-15 5:01:00 -0700
 author: NAIFA
 category: NAIFA
 tag:
 - NAIFA
-image: awesome.jpg
+image: harrisburg-academy-al.jpg
 ---
 
 ## Code of Ethics
