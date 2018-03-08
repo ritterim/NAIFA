@@ -9,8 +9,8 @@ author:
 # Site wide - Do not alter unless you know what you're doing
 # ------------------------------------------------------
 title: NAIFA of Greater Harrisburg
-email:
-description:
+email: naifaghbg@gmail.com
+description: Those engaged in offering insurance and other related financial services occupy the unique position of liaison between the purchasers and the suppliers of insurance and closely related financial products. Inherent in this role is the combination of professional duty to the client and to the company, as well. Ethical balance is required to avoid any conflict between these two obligations. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "/"
 logo: /images/naifagh-logo.jpg
