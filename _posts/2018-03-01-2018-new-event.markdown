@@ -4,9 +4,9 @@ title:  "NAIFA Strawberry Square LTC Event - 2017"
 date:   2018-03-01 5:01:00 -0700
 author: NAIFA
 category: Events
+image: 2018-01-30-naifa-ltc.markdown.jpg
 tag:
 - NAIFA
-image: 2018-01-30-naifa-ltc.markdown.jpg
 ---
 
 ## Event:
