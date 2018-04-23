@@ -30,9 +30,11 @@
             {% if page.category contains 'Events' %}
               <h4 class="gold">Upcoming Events</h4>
             {% else %}
+
             {% unless page.category contains 'About' %}
               <h4 class="gold">Recent Posts</h4>
             {% endunless %}
+            
             {% endif %}
 
             {% include categories-page.html %}
