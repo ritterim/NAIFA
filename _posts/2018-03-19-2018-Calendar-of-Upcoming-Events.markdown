@@ -3,7 +3,7 @@ layout: post
 title: "Calendar of Upcoming Events"
 date: 2018-03-19 6:01:00 -0700
 author: NAIFA
-catergory: Events
+category: Events
 image: iStock-182361579.jpg
 tag:
 - NAIFA
