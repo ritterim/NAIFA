@@ -8,25 +8,31 @@ image: harrisburg-academy-al.jpg
 ---
 
 #### NAIFA Greater Harrisburg Officers
-**President** Francis Oscilowski CLU 
-franoscilowski@comcast.net
-(717) 541-6176
+**President** 
+Francis Oscilowski CLU 
+---franoscilowski@comcast.net
+---(717) 541-6176
 
-**President- Elect** Gregory Kane ChFC   
+**President- Elect** 
+Gregory Kane ChFC   
 gregory.kane@prudential.com
 (717) 303-1933
 
-**Vice President** TBD
+**Vice President** 
+TBD
 
-**Secretary-Treasurer** Gerry Wevodau  
+**Secretary-Treasurer** 
+Gerry Wevodau  
 Gerry@wevins.com
 (717) 761-0393
 
-**National Committeeman** Dave Edwards
+**National Committeeman** 
+Dave Edwards
 davidmedwardsins@comcast.net
 (717) 533-6243
 
-**Immediate Past President** Michael Baker
+**Immediate Past President** 
+Michael Baker
 mike.baker@ritterim.com
 (717) 540-3720 ext. 262
 
