@@ -11,3 +11,4 @@ tag:
 
 ## Event:
 May 11th - Annual Gold Outing, Dauphin Highland Golf Course, Harrisburg: [See More](/images/2018_NAIFA_Golf_Brochure.pdf)
+![Golf Photo 1](/images/posts/2018-05-11-2018-Golf1.jpg)
