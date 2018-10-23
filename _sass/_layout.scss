@@ -472,3 +472,15 @@ input[type=submit] {
     height: 100%;
   }
 }
+.card {
+  &.border-0 {
+    border: none !important;
+  }
+}
+.article-wrapper {
+  article {
+    &:nth-child(3n+1) {
+      clear: both;
+    }
+  }
+}
