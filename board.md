@@ -14,7 +14,8 @@ Francis Oscilowski CLU
 
 franoscilowski@comcast.net
 
-(717 541-6176
+(717) 541-6176
+
 **President- Elect** 
 
 Gregory Kane ChFC  
@@ -28,18 +29,27 @@ gregory.kane@prudential.com
 TBD
 
 **Secretary-Treasurer** 
+
 Gerry Wevodau  
+
 Gerry@wevins.com
+
 (717) 761-0393
 
 **National Committeeman** 
+
 Dave Edwards
+
 davidmedwardsins@comcast.net
+
 (717) 533-6243
 
 **Immediate Past President** 
+
 Michael Baker
+
 mike.baker@ritterim.com
+
 (717) 540-3720 ext. 262
 
 #### Directors
