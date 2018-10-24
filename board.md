@@ -10,8 +10,8 @@ image: harrisburg-academy-al.jpg
 #### NAIFA Greater Harrisburg Officers
 **President** 
 Francis Oscilowski CLU 
----franoscilowski@comcast.net
----(717) 541-6176
+..franoscilowski@comcast.net
+..(717) 541-6176
 
 **President- Elect** 
 Gregory Kane ChFC   
