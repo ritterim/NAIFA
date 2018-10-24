@@ -53,8 +53,7 @@ mike.baker@ritterim.com
 (717) 540-3720 ext. 262
 
 #### Directors
-2018 - Steven Clemens  
-stevec@urlinsgroup.com
+2018 - Steven Clemens stevec@urlinsgroup.com
 (717)540-5690
 
 2018 - Craig Ritter CPCU
