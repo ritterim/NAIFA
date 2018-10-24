@@ -14,7 +14,8 @@ Francis Oscilowski CLU
 
 franoscilowski@comcast.net
 
-(717) 541-6176
+(717) 541-6176  
+
 
 **President- Elect** 
 
@@ -30,6 +31,7 @@ TBD
 
 **Secretary-Treasurer** 
 
+
 Gerry Wevodau  
 
 Gerry@wevins.com
@@ -38,9 +40,12 @@ Gerry@wevins.com
 
 **National Committeeman** 
 
+
 Dave Edwards
 
+
 davidmedwardsins@comcast.net
+
 
 (717) 533-6243
 
