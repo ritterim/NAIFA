@@ -12,8 +12,8 @@ image: harrisburg-academy-al.jpg
 
 Francis Oscilowski CLU 
  -franoscilowski@comcast.net
- -(717)-541-6176
-
+ (717)-541-6176
+(717 541-6176
 **President- Elect** 
 Gregory Kane ChFC   
 gregory.kane@prudential.com
