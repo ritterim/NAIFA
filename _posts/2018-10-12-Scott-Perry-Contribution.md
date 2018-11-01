@@ -4,7 +4,7 @@ title: "Scott Perry IFAPAC Contribution"
 date: 2018-03-19 6:01:00 -0700
 author: NAIFA
 category: Events
-image: Perry%20Check.jpg
+image: Perry Check.jpg
 tag:
 - NAIFA
 ---
