@@ -132,6 +132,9 @@ body {
 #related-content,
 #disclaimers,
 #post-body {
+  img {
+    max-width: 100%;
+  }
   h2 {
     font-size: 1.5em;
     font-weight: 300;
