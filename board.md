@@ -10,7 +10,7 @@ image: harrisburg-academy-al.jpg
 #### NAIFA Greater Harrisburg Officers
 **President** 
 
->Francis Oscilowski CLU 
+Francis Oscilowski CLU 
 
 >franoscilowski@comcast.net
 
