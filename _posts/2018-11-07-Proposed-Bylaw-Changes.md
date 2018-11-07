@@ -11,5 +11,5 @@ tag:
 
 ## Home:
 Please see the Proposed Bylaw changes that will be voted on at the December Holiday Mix & Mingle, December 20, 2018
-### Photo
-![Contribution Photo 1](/images/posts/Proposed%20Bylaws.pdf)
+### Document
+![PDF Document](/images/posts/Proposed%20Bylaws.pdf)
