@@ -9,7 +9,6 @@ tag:
 - NAIFA
 ---
 
-## Home:
-Due to the Local Structure change, please see the Proposed Bylaw changes that will be voted on at the December Holiday Mix & Mingle, December 20, 2018
+Due to the Local Structure change, please see the Proposed Bylaw changes, that will be voted on at the December Holiday Mix & Mingle, December 20, 2018
 ### Document
 ![PDF Document](/images/posts/Proposed%20Bylaws.pdf)
