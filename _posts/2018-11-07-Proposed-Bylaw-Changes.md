@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Proposed Bylaw Changes"
-date: 2018-03-19 6:01:00 -0700
+date: 2018-11-07 6:01:00 -0700
 author: NAIFA
 category: NAIFA
 image: Proposed Bylaws.pdf
