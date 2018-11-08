@@ -11,4 +11,4 @@ tag:
 
 Due to the Local Structure change, please see the Proposed Bylaw changes, that will be voted on at the December Holiday Mix & Mingle, December 20, 2018
 ### Document
-![PDF Document](https://github.com/NAIFAHarrisburg/NAIFAHarrisburg.github.io/blob/master/images/posts/Proposed%20Bylaws.pdf)
+[PDF Document](/images/posts/Proposed%20Bylaws.pdf)
