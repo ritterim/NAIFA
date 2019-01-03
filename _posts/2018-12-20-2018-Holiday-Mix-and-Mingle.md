@@ -4,7 +4,7 @@ title: "Holiday Mix & Mingle, Leeds Restaurant, Harrisburg"
 date: 2018-12-20 6:01:00 -0700
 author: NAIFA
 category: Events
-image: Holiday.jpg
+image: (/images/posts/preview.jpg)
 tag:
 - NAIFA
 ---
@@ -22,6 +22,6 @@ December 20th - Our Holiday Mix & Mingle, held at Leeds in Harrisburg, was very 
 
 ![Holiday Photo 4](images/posts/Yaremchaks.jpg)
 
-![Holiday Photo 5](images/posts/IMG_5429.jpg
+![Holiday Photo 5](images/posts/IMG_5429.jpg)
 
 ![Holiday Photo 6](images/posts/IMG_5433.jpg)
