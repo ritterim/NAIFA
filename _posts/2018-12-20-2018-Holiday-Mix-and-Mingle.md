@@ -18,16 +18,16 @@ Great evening!
 ![Holiday Photo 2](images/posts/IMG_5419.jpg)
 2019 Slate of Officers being sworn in
 
-![Holiday Photo 3](images/posts/IMG_5422.jpg)
+![Holiday Photo 3](images/posts/IMG_5422_b.jpg)
 Outgoing President Fran Oscilowksi receiving his President's plaque
 
-![Holiday Photo 4](images/posts/IMG_5424.jpg)
+![Holiday Photo 4](images/posts/IMG_5424_b.jpg)
 VROCP receiving their donation
 
 ![Holiday Photo 4](images/posts/Yaremchaks.jpg)
 Donation given to local family whose wife/mother was diagnosed with brain cancer in April
 
-![Holiday Photo 5](images/posts/IMG_5429.jpg)
+![Holiday Photo 5](images/posts/IMG_5429_b.jpg)
 Craig Ritter received the President's Award
 
 ![Holiday Photo 6](images/posts/IMG_5433.jpg)
