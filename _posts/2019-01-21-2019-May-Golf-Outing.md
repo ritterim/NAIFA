@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2019 Annual Golf Outing, Dauphin Highland Golf Course, Harrisburg"
-date: 2019-01-21 6:01:00 -0700
+date: 2019-01-21 10:33:00 +0700
 author: NAIFA
 category: Events
 image: golf.jpg
