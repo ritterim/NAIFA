@@ -4,7 +4,7 @@ title: "Holiday Mix & Mingle"
 date: 2018-12-03 10:23:00 -0700
 author: NAIFA
 category: NAIFA
-image: Holiday Mix and Mingle.jpg
+image: preview.jpg
 tag:
 - NAIFA
 ---
