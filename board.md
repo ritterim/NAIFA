@@ -10,24 +10,27 @@ image: harrisburg-academy-al.jpg
 #### NAIFA Greater Harrisburg Officers
 **President** 
 
-Francis Oscilowski CLU 
-
-franoscilowski@comcast.net
-
-(717) 541-6176  
-
-
-**President- Elect** 
-
 Gregory Kane ChFC  
 
 gregory.kane@prudential.com
 
 (717) 303-1933
 
+**President- Elect** 
+
+Craig Ritter CPCU
+
+craig.ritter@ritterim.com
+
+(717) 540-3720
+
 **Vice President** 
 
-TBD
+Steven Clemens 
+
+stevec@urlinsgroup.com
+
+(717)540-5690
 
 **Secretary-Treasurer** 
 
