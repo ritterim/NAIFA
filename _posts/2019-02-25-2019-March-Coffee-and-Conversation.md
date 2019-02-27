@@ -9,7 +9,7 @@ tag:
 - NAIFA
 ---
 
-March 1st will be our Coffee & Conversation.  Craig Ritter will speak on Managing Your Most Valuable Asset --Your Health.  So grab a cup of coffee & join us.
+March 1st will be our next Coffee & Conversation.  Craig Ritter will speak on "Managing Your Most Valuable Asset --Your Health".  So grab a cup of coffee & join us.
 
 ### Document
-(Document)(images/posts/March%20CC%20Invite.jpg)
+(Document) (images/posts/March%20CC%20Invite.jpg)
