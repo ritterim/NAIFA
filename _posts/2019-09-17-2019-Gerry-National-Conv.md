@@ -4,7 +4,7 @@ title: "Gerry Wevodau National Convention 2019"
 date: 2019-09-17 3:01:00 -0700
 author: NAIFA
 category: Events
-image: Gerry Nat.Conv.jpg
+image: Gerry Nat.Conv.jpg (images/posts/Gerry%20Nat.%20Conv.jpg)
 tag:
 - NAIFA
 ---
