@@ -4,7 +4,7 @@ title: "Sept Coffee & Conversation"
 date: 2019-08-21 03:01:00 +0700
 author: NAIFA
 category: NAIFA
-image: Sept C&C.jpg
+image: (Document)(images/posts/Sept%20C%26C%20.jpg)
 tag:
 - NAIFA
 ---
