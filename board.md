@@ -10,27 +10,23 @@ image: harrisburg-academy-al.jpg
 #### NAIFA Greater Harrisburg Officers
 **President** 
 
-Gregory Kane ChFC  
-
-gregory.kane@prudential.com
-
-(717) 303-1933
-
-**President- Elect** 
-
 Craig Ritter CPCU
 
 craig.ritter@ritterim.com
 
 (717) 540-3720
 
-**Vice President** 
+**President- Elect** 
 
 Steven Clemens 
 
 stevec@urlinsgroup.com
 
 (717)540-5690
+
+**Vice President** 
+
+TBD
 
 **Secretary-Treasurer** 
 
@@ -50,59 +46,39 @@ davidmedwardsins@comcast.net
 
 **Immediate Past President** 
 
-Michael Baker
+Gregory Kane ChFC  
 
-mike.baker@ritterim.com
+gregory.kane@prudential.com
 
-(717) 540-3720 ext. 262
+(717) 303-1933
 
-#### Directors
-2018 - Steven Clemens 
+#### Standing Committees
+**Government Relations**
+
+Tim Noll
+
+nollfinancial@comcast.net
+
+(717) 939-0968
+
+**Membership**
+
+Gregory Kane ChFC  
+
+gregory.kane@prudential.com
+
+(717) 303-1933
+
+Steven Clemens 
 
 stevec@urlinsgroup.com
 
 (717)540-5690
 
-2018 - Craig Ritter CPCU
+**Professional Development**
 
-craig.ritter@ritterim.com
+Michael Baker
 
-(717) 540-3720
+Mike.baker@ritterim.com
 
-2019 - Randall Kaufmann 
-
-randall.kaufmann@prudential.com
-
-(717) 303-1933
-
-2019 - Lois Valencia
-
-lois.valencia@lfg.com
-
-(717) 938-6227
-
-2020 - Robert Farabaugh CLU, ChFC, LUTCF, MSFS
-
-robert.farabaugh@prudential.com
-
-(717) 412-5529
-
-2020 - David Edwards LUTCF
-
-davemedwardsins@comcast.net
-
-(717) 533-6243
-
-#### State Committee Persons
-
-2019- Donald Yost CLU, ChFC
-
-dyost@jfswa.com
-
-(717) 975-0509
-
-2019 - Michael Baker
-
-mike.baker@ritterim.com
-
-(717) 540-3720 ext. 262
+(717) 540-3720 ext 262
