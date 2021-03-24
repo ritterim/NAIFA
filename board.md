@@ -10,19 +10,19 @@ image: harrisburg-academy-al.jpg
 #### NAIFA Greater Harrisburg Officers
 **President** 
 
-Craig Ritter CPCU
-
-craig.ritter@ritterim.com
-
-(717) 540-3720
-
-**President- Elect** 
-
 Steven Clemens 
 
 stevec@urlinsgroup.com
 
 (717)540-5690
+
+**President- Elect** 
+
+Gregory Kane ChFC  
+
+gregory.kane@prudential.com
+
+(717) 303-1933
 
 **Vice President** 
 
@@ -46,11 +46,12 @@ davidmedwardsins@comcast.net
 
 **Immediate Past President** 
 
-Gregory Kane ChFC  
+Craig Ritter CPCU
 
-gregory.kane@prudential.com
+craig.ritter@ritterim.com
 
-(717) 303-1933
+(717) 540-3720
+
 
 #### Standing Committees
 **Government Relations**
