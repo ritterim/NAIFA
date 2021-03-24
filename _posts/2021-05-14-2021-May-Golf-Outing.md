@@ -10,7 +10,7 @@ tag:
 ---
 
 ## Event:
-May 14th - 2021 Annual Gold Outing, Dauphin Highland Golf Course, Harrisburg: [See More](images/2019-NAIFA-Registration-Brochure.pdf)
+May 14th - 2021 Annual Gold Outing, Dauphin Highland Golf Course, Harrisburg: [See More](images/2021_NAIFA_Golf_Registration_Brochure.pdf)
 ### 2018 Golf Photos
 ![Golf Photo 1](/images/posts/2018-05-11-2018-Golf1.jpg)
 
